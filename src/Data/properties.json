@@ -1,0 +1,38 @@
+[
+  {
+    "Id":1,
+    "Name":"Birla House",
+    "Type":"House",
+    "Price":12000
+  },
+  {
+    "Id":2,
+    "Name":"Erose House",
+    "Type":"Flat",
+    "Price":14000
+  },
+  {
+    "Id":3,
+    "Name":"Duplex House",
+    "Type":"House",
+    "Price":15000
+  },
+  {
+    "Id":4,
+    "Name":"Hybrid House",
+    "Type":"Flat",
+    "Price":16000
+  },
+  {
+    "Id":5,
+    "Name":"Birla House",
+    "Type":"House",
+    "Price":17000
+  },
+  {
+    "Id":6,
+    "Name":"Birla House",
+    "Type":"Flat",
+    "Price":18000
+  }
+]
